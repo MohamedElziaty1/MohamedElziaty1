@@ -39,7 +39,7 @@
 ### 🚀 Projects & Contributions:
 
 - [simple-e-commerce](https://github.com/MohamedElziaty1/simple-e-commerce): short for electronic commerce .
-- [Project 2](https://github.com/ziaty-mohamed/project2): Brief description of project 2.
+- [Academic-Advising-system](https://github.com/MohamedElziaty1/advising-acadmeic-system): Registration System Snapshot from Academic System For Universities.
 - [Contribution 1](https://github.com/otherrepo/contribution1): Brief description of your contribution.
 
 ### 📈 GitHub Stats:
