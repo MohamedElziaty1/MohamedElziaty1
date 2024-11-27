@@ -41,6 +41,7 @@
 - [simple-e-commerce](https://github.com/MohamedElziaty1/simple-e-commerce): short for electronic commerce .
 - [Academic-Advising-system](https://github.com/MohamedElziaty1/advising-acadmeic-system): Registration System Snapshot from Academic System For Universities.
 - [Ecommerce-laravel](https://github.com/MohamedElziaty1/Ecommerce-php-laravel/tree/main): An e-commerce (electronic commerce) platform is a digital system that enables the buying and selling of goods or services over the internet. It connects businesses (sellers) and customers, allowing transactions without physical interaction.
+- [school-management-system](https://github.com/MohamedElziaty1/school-management-system):A School Management System Project is a software application developed to automate and manage various aspects of a school's operations. The project aims to enhance efficiency, accuracy, and accessibility for administrators, teachers, students, and parents.
 
 ### 📈 GitHub Stats:
 
